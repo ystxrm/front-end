@@ -36,17 +36,17 @@
   /* Fundo principal do site */
 
   /* 🌿 Cores Primárias (cores fixas - NÃO mudam com o tema) */
-  --primary-light: #4de7b7;
+  --primary-light: #ff01ff;
   /* Usado para realces suaves */
-  --primary: #0da170;
+  --primary: #ff01ff;
   /* Cor principal do projeto */
-  --primary-dark: #065f46;
+  --primary-dark: #ff01ff;
   /* Usado em hovers e elementos ativos */
 
   /* 🔗 Links */
-  --link-color: #10b981;
+  --link-color: #ff01ff;
   /* Cor padrão dos links */
-  --link-hover: #0b8a60;
+  --link-hover: #ff01ff;
   /* Cor dos links ao passar o mouse */
 
   /* 🚦 Alertas (cores fixas, usadas para feedbacks visuais) */
@@ -82,9 +82,9 @@
   /* Texto menos importante (placeholders, labels, etc.) */
 
   /* 🚫 Cores para botões e elementos desativados */
-  --disabled: #555f7d;
+  --disabled: #ff01ff;
   /* Cor de fundo de elementos desativados */
-  --text-disabled: #aab3cc;
+  --text-disabled: #ff01ff;
   /* Texto de botões ou inputs desativados */
 
   /* 🔔 Cores do Toastify (notificações) */
